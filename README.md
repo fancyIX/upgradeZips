@@ -1,5 +1,3 @@
-# upgradeZips
-
 # Before Using Zip Files
 ## Disapble SIP
 
