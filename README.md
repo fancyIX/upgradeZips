@@ -32,3 +32,7 @@ Hit return and authenticate with an admin password
 Relaunch System Preferences and go to “Security & Privacy” and the “General” tab
 
 You will now see the “Anywhere” option under ‘Allow apps downloaded from:’ Gatekeeper options
+
+# To Install
+
+https://www.youtube.com/watch?v=LKwk-PWmYxQ
