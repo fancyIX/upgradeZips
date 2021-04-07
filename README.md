@@ -39,4 +39,4 @@ You will now see the “Anywhere” option under ‘Allow apps downloaded from:�
 
 # To Install
 
-https://www.youtube.com/watch?v=LKwk-PWmYxQ
+https://www.youtube.com/watch?v=7wWfU3AlFPk
